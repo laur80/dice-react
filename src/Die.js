@@ -1,16 +1,14 @@
-import React from 'react';
+import React, { Component } from "react";
 import "./Die.css";
 
-
-export default function Dice(props) {
-   
-
+class Die extends Component {
+  render() {
     return (
-       
-        <i
-          className={`Die fas fa-dice-${props.face} ${props.rolling &&
+      <i
+        className={`Die fas fa-dice-${this.props.face} ${this.props.rolling &&
           "shaking"}`}
-         />
-       
-      );
+      />
+    );
+  }
 }
+export default Die;

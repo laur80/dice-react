@@ -1,14 +1,15 @@
-import React from 'react';
+import React, { Component } from "react";
 import RollDice from "./RollDice";
 import "./App.css";
 
-const App= () =>  {
-
-  return (
-    <div className='App'>
-      <RollDice />
-    </div>
-  );
+class App extends Component {
+  render() {
+    return (
+      <div className='App'>
+        <RollDice />
+      </div>
+    );
+  }
 }
 
 export default App;
