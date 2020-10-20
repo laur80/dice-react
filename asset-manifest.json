@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dice-react/static/css/main.b42f7550.chunk.css",
+    "main.js": "/dice-react/static/js/main.9d3b6f20.chunk.js",
+    "main.js.map": "/dice-react/static/js/main.9d3b6f20.chunk.js.map",
+    "runtime-main.js": "/dice-react/static/js/runtime-main.2a40b685.js",
+    "runtime-main.js.map": "/dice-react/static/js/runtime-main.2a40b685.js.map",
+    "static/js/2.aaeeb12a.chunk.js": "/dice-react/static/js/2.aaeeb12a.chunk.js",
+    "static/js/2.aaeeb12a.chunk.js.map": "/dice-react/static/js/2.aaeeb12a.chunk.js.map",
+    "index.html": "/dice-react/index.html",
+    "precache-manifest.c469bb2b131545e9e31c0c6510f5acf8.js": "/dice-react/precache-manifest.c469bb2b131545e9e31c0c6510f5acf8.js",
+    "service-worker.js": "/dice-react/service-worker.js",
+    "static/css/main.b42f7550.chunk.css.map": "/dice-react/static/css/main.b42f7550.chunk.css.map",
+    "static/js/2.aaeeb12a.chunk.js.LICENSE.txt": "/dice-react/static/js/2.aaeeb12a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a40b685.js",
+    "static/js/2.aaeeb12a.chunk.js",
+    "static/css/main.b42f7550.chunk.css",
+    "static/js/main.9d3b6f20.chunk.js"
+  ]
+}
